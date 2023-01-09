@@ -1,0 +1,30 @@
+
+GET http://localhost:3000/employees/
+
+###
+
+POST http://localhost:3000/employees/
+content-type: application/json
+
+{
+    "name": "Frans Fritz",
+    "password": "abcdef9",
+    "profession": "Marknadschef",
+    "id": 5
+}
+
+###
+
+PUT http://localhost:3000/employees/1
+content-type: application/json
+
+{
+  "name": "Emma Enoksson",
+  "password": "abcdef10",
+  "profession": "Systemutvecklare",
+  "id": 6
+}
+
+###
+
+DELETE http://localhost:3000/employees/delete/1
