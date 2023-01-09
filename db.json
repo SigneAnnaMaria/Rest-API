@@ -1,26 +1,26 @@
 {
   "1": {
-    "name": "Annette Abbot",
-    "password": "abcdef5",
-    "profession": "VD",
+    "name": "Bertil Bento",
+    "password": "abcdef6",
+    "profession": "Grafiker",
     "id": 1
   },
   "2": {
-    "name": "Bertil Bento",
-    "password": "abcdef6",
-    "profession": "Städare",
-    "id": 2
-  },
-  "3": {
     "name": "Denise Danto",
     "password": "abcdef7",
     "profession": "Administratör",
-    "id": 3
+    "id": 2
   },
-  "4": {
+  "3": {
     "name": "Cecil Cesar",
     "password": "abcdef8",
     "profession": "Handläggare",
+    "id": 3
+  },
+  "4": {
+    "name": "Anette Anto",
+    "password": "abcdef9",
+    "profession": "VD",
     "id": 4
   }
 }

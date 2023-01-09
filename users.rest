@@ -8,7 +8,7 @@ content-type: application/json
 
 {
     "name": "Frans Fritz",
-    "password": "abcdef9",
+    "password": "abcdef10",
     "profession": "Marknadschef",
     "id": 5
 }
@@ -20,7 +20,7 @@ content-type: application/json
 
 {
   "name": "Emma Enoksson",
-  "password": "abcdef10",
+  "password": "abcdef11",
   "profession": "Systemutvecklare",
   "id": 6
 }

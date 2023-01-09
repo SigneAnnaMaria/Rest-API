@@ -39,7 +39,7 @@ app.post('/employees', (req, res) => {
   )
 })
 
-//Update employee first in list to Emma Enoksson 
+//Update employee first in list
 app.put('/employees/:id', (req, res) => {
   fs.readFile(db, 'utf8', (err, data) => {
     const uniqueID = parseInt(req.params.id)
